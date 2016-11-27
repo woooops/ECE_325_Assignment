@@ -125,7 +125,7 @@ public class daysold {
 				break;
 			case 12:
 				array[1] = "December";
-				break;
+				break; 
 		}
 		
 		System.out.print("Birthday: " + array[1] + " " + array[2] + " " + array[0] + "; ");
